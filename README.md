@@ -6,8 +6,9 @@ The database brings together languages for which verbal duality has been reporte
 
 ## Files
 
-- `metadata.csv` — metadata for the languages in the sample, including language name, ISO code, Glottocode, genus, macro-area, coordinates, the descriptive source used for annotation, and the reference in which verbal duality in the language was reported.
-- `annotation.csv` — annotation of number markers and morphological operations in the languages of the sample. Each row corresponds to one marker or morphological operation.
+- `vdu metadata.csv` — metadata for the languages in the sample, including language name, ISO code, Glottocode, genus, macro-area, coordinates, the descriptive source used for annotation, and the reference in which verbal duality in the language was reported
+- `vdu annotation.csv` — annotation of number markers and morphological operations in the languages of the sample (each row corresponds to one marker or morphological operation)
+- `vdu description.md` — descriptions of the number systems of each language of the sample
 
 ## Annotation
 
